@@ -67,7 +67,13 @@ nav a:hover{
         position: relative;
         font-size: medium;
         top: 5vh;
-        left: -3vh;
+        left: -2vh;
+    }
+
+    .heading .name{
+        font-size: 2vh;
+        position: relative;
+        left: 0.8vh;
     }
     
 }
@@ -80,7 +86,7 @@ main{
     width: 100%;
 }
 
-.about,.resources,.contact{
+.about,.contact{
     text-align: center;
 }
 
